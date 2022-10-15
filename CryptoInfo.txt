@@ -1,0 +1,11 @@
+        Names:   Values:  Recent Change:
+0      Bitcoin  19992.88          456.43
+1     Ethereum   1347.89           27.06
+2       Tether      1.00            0.00
+3          BNB    293.82          292.82
+4     USD Coin      1.00         -285.93
+5          XRP      0.47            0.01
+6  Binance USD      1.00            0.00
+7      Cardano      0.43            0.00
+8       Solana     34.03            1.09
+9     Dogecoin      0.06            0.00
